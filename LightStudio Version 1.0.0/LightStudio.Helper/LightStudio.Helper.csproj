@@ -24,13 +24,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="DTOs\CategoryDto\" />
-    <Folder Include="DTOs\CountryDto\" />
-    <Folder Include="DTOs\ReklamDto\" />
-    <Folder Include="DTOs\SettingsDto\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\LightStudio.Core\LightStudio.Core.csproj" />
   </ItemGroup>
 

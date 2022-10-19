@@ -4,7 +4,7 @@ using System.Text;
 
 namespace LightStudio.Helper.DTOs.ProductDto
 {
-    internal class ProductPostDto
+    public class ProductPostDto
     {
     }
 }

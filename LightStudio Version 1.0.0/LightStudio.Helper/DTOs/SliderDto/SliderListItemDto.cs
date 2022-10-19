@@ -4,7 +4,7 @@ using System.Text;
 
 namespace LightStudio.Helper.DTOs.SliderDto
 {
-    internal class SliderListItemDto
+    public class SliderListItemDto
     {
         public int Id { get; set; }
         public int Order { get; set; }
