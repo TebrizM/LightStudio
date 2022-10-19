@@ -23,4 +23,16 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DTOs\AccountDto\" />
+    <Folder Include="DTOs\BrandDto\" />
+    <Folder Include="DTOs\CategoryDto\" />
+    <Folder Include="DTOs\CountryDto\" />
+    <Folder Include="DTOs\ReklamDto\" />
+    <Folder Include="DTOs\SettingsDto\" />
+    <Folder Include="DTOs\ProductDto\" />
+    <Folder Include="Implementations\" />
+    <Folder Include="Profiles\" />
+  </ItemGroup>
+
 </Project>
