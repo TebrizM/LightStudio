@@ -1,0 +1,13 @@
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Helper\bin\Debug\netcoreapp3.1\LightStudio.Helper.deps.json
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Helper\bin\Debug\netcoreapp3.1\LightStudio.Helper.dll
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Helper\bin\Debug\netcoreapp3.1\LightStudio.Helper.pdb
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Helper\obj\Debug\netcoreapp3.1\LightStudio.Helper.csproj.AssemblyReference.cache
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Helper\obj\Debug\netcoreapp3.1\LightStudio.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Helper\obj\Debug\netcoreapp3.1\LightStudio.Helper.AssemblyInfoInputs.cache
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Helper\obj\Debug\netcoreapp3.1\LightStudio.Helper.AssemblyInfo.cs
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Helper\obj\Debug\netcoreapp3.1\LightStudio.Helper.csproj.CoreCompileInputs.cache
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Helper\obj\Debug\netcoreapp3.1\LightStudio.Helper.dll
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Helper\obj\Debug\netcoreapp3.1\LightStudio.Helper.pdb
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Helper\bin\Debug\netcoreapp3.1\LightStudio.Helper.runtimeconfig.json
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Helper\bin\Debug\netcoreapp3.1\LightStudio.Helper.runtimeconfig.dev.json
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Helper\obj\Debug\netcoreapp3.1\LightStudio.Helper.genruntimeconfig.cache

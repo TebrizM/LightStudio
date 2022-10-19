@@ -1,0 +1,13 @@
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Core\bin\Debug\netcoreapp3.1\LightStudio.Core.deps.json
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Core\bin\Debug\netcoreapp3.1\LightStudio.Core.runtimeconfig.json
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Core\bin\Debug\netcoreapp3.1\LightStudio.Core.runtimeconfig.dev.json
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Core\bin\Debug\netcoreapp3.1\LightStudio.Core.dll
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Core\bin\Debug\netcoreapp3.1\LightStudio.Core.pdb
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Core\obj\Debug\netcoreapp3.1\LightStudio.Core.csproj.AssemblyReference.cache
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Core\obj\Debug\netcoreapp3.1\LightStudio.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Core\obj\Debug\netcoreapp3.1\LightStudio.Core.AssemblyInfoInputs.cache
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Core\obj\Debug\netcoreapp3.1\LightStudio.Core.AssemblyInfo.cs
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Core\obj\Debug\netcoreapp3.1\LightStudio.Core.csproj.CoreCompileInputs.cache
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Core\obj\Debug\netcoreapp3.1\LightStudio.Core.dll
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Core\obj\Debug\netcoreapp3.1\LightStudio.Core.pdb
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Core\obj\Debug\netcoreapp3.1\LightStudio.Core.genruntimeconfig.cache
