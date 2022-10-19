@@ -16,6 +16,8 @@ namespace LightStudio.Core
         IReklamRepository ReklamRepository { get; }
         ICountryRepository CountryRepository { get; }
         ICategoryRepository CategoryRepository { get; }
+        IColorRepository ColorRepository { get; }
+        IColorIds ColorIds { get; }
 
 
         int Save();

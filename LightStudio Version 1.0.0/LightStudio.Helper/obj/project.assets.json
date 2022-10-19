@@ -2129,6 +2129,26 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "LightStudio.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.0",
+          "FluentValidation.AspNetCore": "11.2.2",
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.22",
+          "Microsoft.AspNetCore.Cors": "2.2.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.22",
+          "Microsoft.EntityFrameworkCore": "3.1.22",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.22",
+          "Swashbuckle.AspNetCore": "6.4.0"
+        },
+        "compile": {
+          "bin/placeholder/LightStudio.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LightStudio.Core.dll": {}
+        }
       }
     }
   },
@@ -7012,12 +7032,18 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "LightStudio.Core/1.0.0": {
+      "type": "project",
+      "path": "../LightStudio.Core/LightStudio.Core.csproj",
+      "msbuildProject": "../LightStudio.Core/LightStudio.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.0",
       "FluentValidation.AspNetCore >= 11.2.2",
+      "LightStudio.Core >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 3.1.22",
       "Microsoft.AspNetCore.Cors >= 2.2.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 3.1.22",
@@ -7060,7 +7086,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\wacht\\Desktop\\LightStudio\\LightStudio Version 1.0.0\\LightStudio.Core\\LightStudio.Core.csproj": {
+              "projectPath": "C:\\Users\\wacht\\Desktop\\LightStudio\\LightStudio Version 1.0.0\\LightStudio.Core\\LightStudio.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
