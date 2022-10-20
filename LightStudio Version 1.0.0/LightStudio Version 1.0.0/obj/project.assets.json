@@ -2150,6 +2150,27 @@
           "bin/placeholder/LightStudio.Core.dll": {}
         }
       },
+      "LightStudio.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.0",
+          "FluentValidation.AspNetCore": "11.2.2",
+          "LightStudio.Core": "1.0.0",
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.22",
+          "Microsoft.AspNetCore.Cors": "2.2.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.22",
+          "Microsoft.EntityFrameworkCore": "3.1.22",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.22",
+          "Swashbuckle.AspNetCore": "6.4.0"
+        },
+        "compile": {
+          "bin/placeholder/LightStudio.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LightStudio.Data.dll": {}
+        }
+      },
       "LightStudio.Helper/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -7059,6 +7080,11 @@
       "path": "../LightStudio.Core/LightStudio.Core.csproj",
       "msbuildProject": "../LightStudio.Core/LightStudio.Core.csproj"
     },
+    "LightStudio.Data/1.0.0": {
+      "type": "project",
+      "path": "../LightStudio.Data/LightStudio.Data.csproj",
+      "msbuildProject": "../LightStudio.Data/LightStudio.Data.csproj"
+    },
     "LightStudio.Helper/1.0.0": {
       "type": "project",
       "path": "../LightStudio.Helper/LightStudio.Helper.csproj",
@@ -7069,6 +7095,7 @@
     ".NETCoreApp,Version=v3.1": [
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.0",
       "FluentValidation.AspNetCore >= 11.2.2",
+      "LightStudio.Data >= 1.0.0",
       "LightStudio.Helper >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 3.1.22",
       "Microsoft.AspNetCore.Cors >= 2.2.0",
@@ -7113,6 +7140,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+            "C:\\Users\\wacht\\Desktop\\LightStudio\\LightStudio Version 1.0.0\\LightStudio.Data\\LightStudio.Data.csproj": {
+              "projectPath": "C:\\Users\\wacht\\Desktop\\LightStudio\\LightStudio Version 1.0.0\\LightStudio.Data\\LightStudio.Data.csproj"
+            },
             "C:\\Users\\wacht\\Desktop\\LightStudio\\LightStudio Version 1.0.0\\LightStudio.Helper\\LightStudio.Helper.csproj": {
               "projectPath": "C:\\Users\\wacht\\Desktop\\LightStudio\\LightStudio Version 1.0.0\\LightStudio.Helper\\LightStudio.Helper.csproj"
             }

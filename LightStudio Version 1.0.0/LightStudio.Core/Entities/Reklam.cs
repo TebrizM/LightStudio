@@ -4,9 +4,9 @@ using System.Text;
 
 namespace LightStudio.Core.Entities
 {
-    public class Reklam
+    public class Reklam : BaseEntity
     {
-        public int Id { get; set; } 
+      
         public string Title { get; set; }
         public string Title2 { get; set; }
         public string Title3 { get; set; }

@@ -94,7 +94,7 @@ namespace LightStudio.Helper.Implementations
 
         public async Task<PagenatedListDto<ProductListItemDto>> GetAll(int page)
         {
-            var query = _unitOfWork.ProductRepository.GetAll(x => !x.IsDeleted, "Brand", "Comments", "SubCategory");
+            var query = _unitOfWork.ProductRepository.GetAll(x => !x.IsDeleted, "Brand", "Comments");
             var pageSizeStr = await _unitOfWork.SettingsRepository.GetValueAsync("PageSize");
             int pageSize = int.Parse(pageSizeStr);
             List<ProductListItemDto> items = query

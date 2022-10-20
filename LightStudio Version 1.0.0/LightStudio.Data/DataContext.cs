@@ -10,11 +10,10 @@ using System.Text;
 namespace LightStudio.Data
 {
     public class DataContext : IdentityDbContext
-    {
-        public DataContext(DbContextOptions<DataContext> options) : base(options)
-        {
 
-        }
+    {
+        
+      
         public DbSet<Country> Countries { get; set; }
         public DbSet<Settings> Settings { get; set; }
         public DbSet<Category> Categories { get; set; }
@@ -24,7 +23,10 @@ namespace LightStudio.Data
         public DbSet<AppUser> AppUsers { get; set; }
         public DbSet<Color> Colors { get; set; }
         public DbSet<Reklam> Reklams { get; set; }
-       
+          public DataContext(DbContextOptions<DataContext> options) : base(options)
+        {
+
+        }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -43,5 +45,5 @@ namespace LightStudio.Data
         }
     }
 }
-//dotnet ef --startup-project ../ProMusic.Api migrations add 
-//dotnet ef --startup-project ../ProMusic.Api database update
+//dotnet ef --startup-project  migrations add 
+//dotnet ef --startup-project . database update

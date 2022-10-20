@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>LightStudio_Version_1._0._0</RootNamespace>
+    <UserSecretsId>7c26f82b-a282-4d53-a22d-12b2ae6c42bf</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -26,10 +27,10 @@
 
   <ItemGroup>
     <Folder Include="Apps\Admin\Controllers\" />
-    <Folder Include="Apps\Member\Controllers\" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\LightStudio.Data\LightStudio.Data.csproj" />
     <ProjectReference Include="..\LightStudio.Helper\LightStudio.Helper.csproj" />
   </ItemGroup>
 

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace LightStudio.Helper.Interfaces
 {
-    internal interface IProductService
+    public interface IProductService
     {
         Task<ProductGetDto> CreateAsync(ProductPostDto postDto);
         Task UpdateAsync(int id, ProductPutDto productPutDto);

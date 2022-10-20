@@ -33,6 +33,7 @@
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.0",
           "FluentValidation.AspNetCore": "11.2.2",
+          "LightStudio.Data": "1.0.0",
           "LightStudio.Helper": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.22",
           "Microsoft.AspNetCore.Cors": "2.2.0",
@@ -1691,6 +1692,25 @@
         },
         "compile": {
           "LightStudio.Core.dll": {}
+        }
+      },
+      "LightStudio.Data/1.0.0": {
+        "dependencies": {
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.0",
+          "FluentValidation.AspNetCore": "11.2.2",
+          "LightStudio.Core": "1.0.0",
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.22",
+          "Microsoft.AspNetCore.Cors": "2.2.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.22",
+          "Microsoft.EntityFrameworkCore": "3.1.22",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.22",
+          "Swashbuckle.AspNetCore": "6.4.0"
+        },
+        "runtime": {
+          "LightStudio.Data.dll": {}
+        },
+        "compile": {
+          "LightStudio.Data.dll": {}
         }
       },
       "LightStudio.Helper/1.0.0": {
@@ -4180,6 +4200,11 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "LightStudio.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LightStudio.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
