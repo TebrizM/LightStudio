@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace LightStudio.Helper.DTOs.SettingsDto
+namespace LightStudio.Helper.Implementations
 {
-    public class SettingsDto
+    internal class ReklamService
     {
     }
 }

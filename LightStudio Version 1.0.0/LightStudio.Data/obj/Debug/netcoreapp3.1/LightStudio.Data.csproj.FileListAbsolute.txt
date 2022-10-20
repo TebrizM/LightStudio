@@ -1,0 +1,16 @@
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Data\bin\Debug\netcoreapp3.1\LightStudio.Data.deps.json
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Data\bin\Debug\netcoreapp3.1\LightStudio.Data.runtimeconfig.json
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Data\bin\Debug\netcoreapp3.1\LightStudio.Data.runtimeconfig.dev.json
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Data\bin\Debug\netcoreapp3.1\LightStudio.Data.dll
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Data\bin\Debug\netcoreapp3.1\LightStudio.Data.pdb
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Data\bin\Debug\netcoreapp3.1\LightStudio.Core.dll
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Data\bin\Debug\netcoreapp3.1\LightStudio.Core.pdb
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Data\obj\Debug\netcoreapp3.1\LightStudio.Data.csproj.AssemblyReference.cache
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Data\obj\Debug\netcoreapp3.1\LightStudio.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Data\obj\Debug\netcoreapp3.1\LightStudio.Data.AssemblyInfoInputs.cache
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Data\obj\Debug\netcoreapp3.1\LightStudio.Data.AssemblyInfo.cs
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Data\obj\Debug\netcoreapp3.1\LightStudio.Data.csproj.CoreCompileInputs.cache
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Data\obj\Debug\netcoreapp3.1\LightStudio.Data.csproj.CopyComplete
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Data\obj\Debug\netcoreapp3.1\LightStudio.Data.dll
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Data\obj\Debug\netcoreapp3.1\LightStudio.Data.pdb
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio.Data\obj\Debug\netcoreapp3.1\LightStudio.Data.genruntimeconfig.cache

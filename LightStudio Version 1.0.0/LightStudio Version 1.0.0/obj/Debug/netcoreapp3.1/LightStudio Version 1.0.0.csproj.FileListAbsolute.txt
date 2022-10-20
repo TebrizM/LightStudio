@@ -75,3 +75,7 @@ C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio Version
 C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio Version 1.0.0\obj\Debug\netcoreapp3.1\LightStudio Version 1.0.0.dll
 C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio Version 1.0.0\obj\Debug\netcoreapp3.1\LightStudio Version 1.0.0.pdb
 C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio Version 1.0.0\obj\Debug\netcoreapp3.1\LightStudio Version 1.0.0.genruntimeconfig.cache
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio Version 1.0.0\bin\Debug\netcoreapp3.1\LightStudio.Core.dll
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio Version 1.0.0\bin\Debug\netcoreapp3.1\LightStudio.Helper.dll
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio Version 1.0.0\bin\Debug\netcoreapp3.1\LightStudio.Helper.pdb
+C:\Users\wacht\Desktop\LightStudio\LightStudio Version 1.0.0\LightStudio Version 1.0.0\bin\Debug\netcoreapp3.1\LightStudio.Core.pdb

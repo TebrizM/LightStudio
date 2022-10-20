@@ -1,5 +1,7 @@
 ﻿using LightStudio.Core.Entities;
 using LightStudio.Helper.DTOs.BrandDto;
+using LightStudio.Helper.DTOs.CategoryDto;
+using LightStudio.Helper.DTOs.CountryDto;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -21,8 +23,10 @@ namespace LightStudio.Helper.DTOs.ProductDto
         public int CategoryId { get; set; }
         public int CountryId { get; set; }
         public BrandGetDto Brand { get; set; }
-        //public CategoryGetDto Category { get; set; }
-        //public CountryGetDto Country { get; set; }
+        public CategoryGetDto Category { get; set; }
+        public CountryGetDto Country { get; set; }
+
 
     }
+
 }

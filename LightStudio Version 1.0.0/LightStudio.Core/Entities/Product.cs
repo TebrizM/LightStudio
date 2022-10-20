@@ -15,8 +15,9 @@ namespace LightStudio.Core.Entities
         public string Desc { get; set; }
         public int CategoryId { get; set; }
         public int BrandId { get; set; }
-        public int Size { get; set; }
+        public string Size { get; set; }
         public bool InStock { get; set; }
+        public string RelatedProducts { get; set; }
         public int CountryId { get; set; }
         public Country Country { get; set; }
         public Category Category { get; set; }

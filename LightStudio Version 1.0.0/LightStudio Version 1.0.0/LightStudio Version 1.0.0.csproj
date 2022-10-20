@@ -29,5 +29,9 @@
     <Folder Include="Apps\Member\Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\LightStudio.Helper\LightStudio.Helper.csproj" />
+  </ItemGroup>
+
 
 </Project>

@@ -17,7 +17,7 @@ namespace LightStudio.Core
         ICountryRepository CountryRepository { get; }
         ICategoryRepository CategoryRepository { get; }
         IColorRepository ColorRepository { get; }
-        IColorIds ColorIds { get; }
+ 
 
 
         int Save();
